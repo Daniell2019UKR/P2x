@@ -132,6 +132,7 @@ header nav ul li a:hover {
 }
 a {
 	text-decoration: none;
+        color: inherit; 
 }
 a:visited {
 	color: #000;
